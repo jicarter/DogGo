@@ -424,3 +424,6 @@ C:\Users\jorda\workspace\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Walkers\Index.
 C:\Users\jorda\workspace\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Walkers\Details.cshtml.g.cs
 C:\Users\jorda\workspace\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Owner\Create.cshtml.g.cs
 C:\Users\jorda\workspace\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Owner\Delete.cshtml.g.cs
+C:\Users\jorda\workspace\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Owner\Edit.cshtml.g.cs
+C:\Users\jorda\workspace\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Owner\Details.cshtml.g.cs
+C:\Users\jorda\workspace\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Owner\Login.cshtml.g.cs
